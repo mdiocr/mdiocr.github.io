@@ -819,9 +819,6 @@ img.mfp-img {
         display: flex;
     }
 
-    .narrow-only {
-        display: block;
-    }
 }
 
 @media (min-width: 1251px) {
